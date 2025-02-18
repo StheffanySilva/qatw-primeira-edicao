@@ -1,9 +1,8 @@
 # QA Tech Week - Primeira Edição
 
-Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.
+Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Este repositório contém todas as instruções para configurar o ambiente, subir os serviços necessários com Docker e rodar os testes automatizados usando o Playwright.
 
-## 📌 Pré-requisitos
-Antes de começar, certifique-se de ter os seguintes softwares instalados em seu sistema:
+## ⚙️ Pré-requisitos
 
 - [Git for Windows](https://gitforwindows.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -59,5 +58,14 @@ O projeto utiliza Docker Compose para gerenciar os serviços necessários para o
    npx playwright test --ui
    ```
 
-## 📄 Licença
-Este projeto está sob a licença MIT.
+  ## 📩 Servidor de E-mail para Teste
+- Mailtrap.io
+
+##👤 Usuário Usado para Login em MF-Auth
+-CPF: 00000014141
+-Senha: 147258
+  
+## 📄 Créditos
+
+Adaptado de [github.com/ComunidadeTechQA/qatw-primeira-edicao](https://github.com/ComunidadeTechQA/qatw-primeira-edicao), por Fernando Papito.
+
