@@ -61,9 +61,9 @@ O projeto utiliza Docker Compose para gerenciar os serviços necessários para o
   ## 📩 Servidor de E-mail para Teste
 - Mailtrap.io
 
-##👤 Usuário Usado para Login em MF-Auth
--CPF: 00000014141
--Senha: 147258
+## 👤 Usuário Usado para Login em MF-Auth
+- CPF: 00000014141
+- Senha: 147258
   
 ## 📄 Créditos
 
